@@ -1,3 +1,2 @@
 # first
-HI
-auther-shekhar chandra gupta
+HI auther-shekhar chandra gupta
